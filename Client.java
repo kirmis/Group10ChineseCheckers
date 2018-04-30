@@ -46,6 +46,7 @@ public class Client extends Application implements Runnable
 	private Circle buttons[][];
 	private boolean yourTurn;
 	private boolean canMove;
+    // hi
 	
 	@Override
 	public void start(Stage primaryStage) throws Exception
